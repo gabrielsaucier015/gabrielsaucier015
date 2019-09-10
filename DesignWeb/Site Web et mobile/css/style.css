@@ -1,0 +1,32 @@
+.bg {
+    background-color: red;
+}
+
+.bleu {
+    background-color: blue;
+    height: 200px;
+    align-items: end;
+}
+
+.pict{
+    background-image: url("https://i.ytimg.com/vi/F0wx5A89U3Y/maxresdefault.jpg");
+}
+
+.content {
+    max-width: 500px;
+    margin: auto;
+    background: white;
+    padding: 10px;
+}
+
+.button{
+    object-position: center;
+}
+
+
+
+
+
+
+
+
